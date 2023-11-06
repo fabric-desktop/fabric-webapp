@@ -1,0 +1,1 @@
+option('gio_modules', type : 'string', description : 'GIO Modules paths to build in the executable.')

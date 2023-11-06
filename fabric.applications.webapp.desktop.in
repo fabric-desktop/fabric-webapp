@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=Webapp wrappers framework for Fabric Desktop
+Exec=@bindir@/webapp

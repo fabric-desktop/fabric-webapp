@@ -1,0 +1,8 @@
+{
+	"id": "com.samueldr",
+	"url": "https://samueldr.com/",
+	"allowed_uri_patterns":
+	[ "^https://(www\\.)samueldr\\.com/"
+	, "^https://samuel\\.dionne-riel\\.com/"
+	]
+}
