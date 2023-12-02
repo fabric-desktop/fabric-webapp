@@ -49,7 +49,6 @@ namespace Fabric.Applications.Webapp {
 		public signal void favicon_change(Gdk.Texture new_icon);
 
 		construct {
-			header.visible = false;
 			var webdata_dir = "/var/empty";
 			var cookie_file = Path.build_filename(Fabric.UI.Application.get_data_dir(), "cookies");
 
