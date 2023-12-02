@@ -35,7 +35,7 @@ configure_file(
   input: 'fabric.applications.webapp.desktop.in',
   output: 'fabric.applications.webapp.desktop',
   configuration: conf,
-  install_dir: join_paths(get_option('sysconfdir'), 'xdg/autostart')
+  install_dir: join_paths(get_option('datadir'), 'applications'),
 )
 
 # Call subdirs
